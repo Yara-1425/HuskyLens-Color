@@ -41,6 +41,5 @@ Connect the LEDs to the digital pins using resistors to prevent damage:
 
 
 ## Project Demo
-<video src="https://github.com/Yara-1425/HuskyLens-Color/blob/main/OUTPUT.MOV" width="400" controls></video>
-## 🎥 Project Demo
-<video src="https://github.com/Yara-1425/HuskyLens-Color/blob/main/OUTPUT.MOV4?raw=true" width="600" controls></video>
+
+
