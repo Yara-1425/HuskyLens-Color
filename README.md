@@ -37,12 +37,8 @@ Connect the LEDs to the digital pins using resistors to prevent damage:
 
 ## Wiring Diagram
 ![Wiring Diagram]
-<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/a9be78d7-a0f5-41ce-8d23-4cdca103e64c" />
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/6ff1f890-7633-4ba7-8d0d-81c503910791" />
+<img width="969" height="720" alt="image" src="https://github.com/user-attachments/assets/a9be78d7-a0f5-41ce-8d23-4cdca103e64c" />
+<img width="720" height="960" alt="image" src="https://github.com/user-attachments/assets/6ff1f890-7633-4ba7-8d0d-81c503910791" />
 
 
 ## Project Demo
-https://github.com/Yara-1425/HuskyLens-Color/blob/main/OUTPUT.MOV
-    }
-  }
-}
