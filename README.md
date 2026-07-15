@@ -41,5 +41,8 @@ Connect the LEDs to the digital pins using resistors to prevent damage:
 
 
 ## Project Demo
+## 🎥 Project Demo
+![Project Demo](![Uploading IMG_5907-ezgif.com-video-to-gif-converter.gif…]()
+)
 
 
