@@ -1,4 +1,4 @@
-# HuskyLens-Colo# HuskyLens Color Recognition LED Controller
+HuskyLens Color Recognition LED Controller
 
 A simple and interactive project using the **HuskyLens AI camera** and **Arduino Uno** to detect specific colors and trigger corresponding colored LEDs.
 
@@ -9,7 +9,7 @@ This project leverages the HuskyLens vision sensor to recognize up to three dist
 *   Arduino Uno
 *   HuskyLens AI Camera
 *   3 LEDs (Blue, Red, Green)
-*   3 Resistors (220Ω - 330Ω)
+*   3 Resistors 
 *   Breadboard and Jumper Wires
 
 ##  Circuit Wiring Details
@@ -35,10 +35,13 @@ Connect the LEDs to the digital pins using resistors to prevent damage:
 
 *(Note: Ensure a common ground connection between your breadboard and the Arduino GND pin.)*
 
-## 🖼 Wiring Diagram
-![Wiring Diagram](path/to/your/fritzing_image.png)
+## Wiring Diagram
+![Wiring Diagram]
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/a9be78d7-a0f5-41ce-8d23-4cdca103e64c" />
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/6ff1f890-7633-4ba7-8d0d-81c503910791" />
 
-## 🎥 Project Demo
+
+## Project Demo
 [Click here to watch the demo video of the project]
 (Insert the link to your video here)
     }
