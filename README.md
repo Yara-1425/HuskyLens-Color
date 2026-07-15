@@ -36,12 +36,14 @@ Connect the LEDs to the digital pins using resistors to prevent damage:
 *(Note: Ensure a common ground connection between your breadboard and the Arduino GND pin.)*
 
 ## Wiring Diagram
+
 <img width="480" height="369" alt="image" src="https://github.com/user-attachments/assets/a9be78d7-a0f5-41ce-8d23-4cdca103e64c" />
+
+---
 <img width="360" height="480" alt="image" src="https://github.com/user-attachments/assets/6ff1f890-7633-4ba7-8d0d-81c503910791" />
 
 
 ## Project Demo
-## 🎥 Project Demo
 ![Project Demo](Demo.gif)
 
 
