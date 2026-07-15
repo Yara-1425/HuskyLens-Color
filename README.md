@@ -1,4 +1,4 @@
-HuskyLens Color Recognition LED Controller
+# HuskyLens Color Recognition LED Controller
 
 A simple and interactive project using the **HuskyLens AI camera** and **Arduino Uno** to detect specific colors and trigger corresponding colored LEDs.
 
@@ -42,8 +42,7 @@ Connect the LEDs to the digital pins using resistors to prevent damage:
 
 
 ## Project Demo
-[Click here to watch the demo video of the project]
-(Insert the link to your video here)
+https://github.com/Yara-1425/HuskyLens-Color/blob/main/OUTPUT.MOV
     }
   }
 }
